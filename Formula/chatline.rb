@@ -2,8 +2,8 @@ class Chatline < Formula
   desc "Command-line client that gives agents and scripts a bot on a Chatto server"
   homepage "https://beardicus.tngl.io/chatline/"
   url "https://tangled.org/beardic.us/chatline.git",
-      tag:      "v0.1.0",
-      revision: "9724512d581236b54e5db04ae478f7c647bb6670"
+      tag:      "v0.2.0",
+      revision: "b5f7e3f4d7c9b972a53416e83f2bbd62fd24f0b1"
   license "Apache-2.0"
 
   depends_on "go" => :build
